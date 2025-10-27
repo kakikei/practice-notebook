@@ -1,0 +1,23 @@
+# Jupyter
+jupyter==1.1.1
+jupyterlab==4.4.10
+notebook==7.4.7
+
+# データ分析・科学計算
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.16.2
+
+# 可視化
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==6.3.1
+
+# 機械学習
+scikit-learn==1.7.2
+
+# その他の便利なツール
+ipywidgets==8.1.7
+tqdm==4.67.1
+requests==2.32.5
+jupyterlab-language-pack-ja-JP==4.4.post3
